@@ -1,0 +1,192 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {	
+	.blog-meta{
+		
+		margin-left: 10px;
+		margin-right: 10px;
+	
+	}
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+	.navbar-toggler{
+		
+		background-color: #fff;
+
+	}
+	
+	.navbar-toggler span {
+		
+		display: inline;
+	
+	}
+	
+	.counter-box{
+		
+		margin-bottom: 10px;
+	
+	}
+	
+	.my-work-content h4 {
+    
+		font-size: 22px;
+    
+	}
+	
+	.my-work-content h4 span{
+		
+		font-size: 14px;
+		
+	}
+	
+	.blog-meta{
+		
+		margin-left: 0;
+		margin-right: 0;
+		padding: 5px;
+
+	}
+	
+	.blog-meta a {
+		
+		margin: 5px;
+		display: block;
+	
+	}
+
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .navbar-toggler{
+		
+		background-color: #fff;
+
+	}
+	
+	.navbar-toggler span {
+		
+		display: inline;
+	
+	}
+	
+	.hero-content h1 {
+    
+		font-size: 30px;
+		line-height: 36px;
+	
+	}
+	
+	.hero-content h4{
+		
+		font-size: 20px;
+		line-height: 24px;
+		
+	}
+	
+	.hero-content p {
+		
+		font-size: 16px;
+		line-height: 25px;
+	
+	}
+	
+	.pb-110 {
+    
+		padding-bottom: 40px;
+	
+	}
+	
+	.pt-110 {
+		
+		padding-top: 40px;
+	
+	}
+	
+	.section-title{
+		
+		margin-bottom: 50px;
+	
+	}
+	
+	.section-title h2 {
+	
+		font-size: 45px;
+	
+	}
+	
+	.section-title p {
+	
+		font-size: 30px;
+	
+	}
+	
+	.about-items {
+    
+		text-align: center;
+		margin-bottom: 50px;
+	
+	}
+	
+	.about-title hr{
+		
+		margin-left: auto;
+		
+	}
+	
+	.counter-box{
+		
+		margin-bottom: 20px;
+	
+	}
+	
+	.my-workFilter a{
+		
+		display: block;
+		margin-bottom: 10px;
+	
+	}
+	
+	.clients-text p{
+		
+		padding: 34px 35px 46px;
+		
+	}
+	
+	.blog-content {
+    
+		margin-bottom: 20px;
+
+	}
+	
+	#contact-form {
+    
+		margin-top: 20px;
+    
+	}
+
+}
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	.navbar-toggler{
+		
+		background-color: #fff;
+
+	}
+	
+	.navbar-toggler span {
+		
+		display: inline;
+	
+	}
+}
